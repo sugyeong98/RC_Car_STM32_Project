@@ -5,5 +5,9 @@ This project demonstrates how to build and control an RC Car using an STM32 micr
 
 ![image](https://github.com/user-attachments/assets/53f7db6d-f606-4eb5-80c3-9894d94fb26a)
 
-![image](https://github.com/user-attachments/assets/170c2eb0-e640-4d60-ac4e-6118413df4bc)
+### 회로도
+L298, DC 모터 4개, HC-05(블루투스 모듈)
+
+
+![rc_car_회로도](https://github.com/user-attachments/assets/81863a89-4beb-440c-8094-cfaf6d1490ca)
 
